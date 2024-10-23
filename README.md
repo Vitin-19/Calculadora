@@ -1,6 +1,6 @@
 # Calculadora
 
-This project is a calculator. I created this just for entertainment.
+This project is a web calculator. I created this just for entertainment.
 It does the same function of a calculator, calculate everything that you want.
 This project is a web one, so I used html, css and JavaScript to make it.
 I chose the cyan color because it is one of my favorite colors and the gray to make a contrast with cyan.
